@@ -11,49 +11,49 @@ members = {
         "birth": "2010",
         "hobby": "Xem Hiha trên YouTube",
         "personality": "Năng động",
-        "image": "C:/Users/Tuan Nam/OneDrive/Máy tính/Daisy/Chi Thanh.jpg"
+        "image": "ChiThanh.jpg"
     },
 
     "Đỗ Thu Thủy": {
         "birth": "2012",
         "hobby": "Bơi lội",
         "personality": "Hoạt bát, năng động",
-        "image": "C:/Users/Tuan Nam/OneDrive/Máy tính/Daisy/Thu Thuy.jpg"
+        "image": "ThuThuy.jpg"
     },
 
     "Đỗ Minh Châu": {
         "birth": "2012",
         "hobby": "Chơi Rubik",
         "personality": "Hòa đồng, thân thiện",
-        "image": "C:/Users/Tuan Nam/OneDrive/Máy tính/Daisy/Minh Chau.jpg"
+        "image": "MinhChau.jpg"
     },
 
     "Nguyễn Ngọc Minh Khanh": {
         "birth": "2012",
         "hobby": "Vẽ tranh",
         "personality": "Hoạt bát, thân thiện",
-        "image": "C:/Users/Tuan Nam/OneDrive/Máy tính/Daisy/Minh Khanh.jpg"
+        "image": "MinhKhanh.jpg"
     },
 
     "Nguyễn Vũ Xuân Thành": {
         "birth": "2012",
         "hobby": "Chơi Rubik",
         "personality": "Hòa đồng, thân thiện",
-        "image": "C:/Users/Tuan Nam/OneDrive/Máy tính/Daisy/Xuan Thanh.jpg"
+        "image": "XuanThanh.jpg"
     },
 
     "Trần Dương Minh Đăng": {
         "birth": "2012",
         "hobby": "Xem bóng đá",
         "personality": "Cá tính, nghịch ngợm",
-        "image": "C:/Users/Tuan Nam/OneDrive/Máy tính/Daisy/Minh Dang.jpg"
+        "image": "MinhDang.jpg"
     },
 
     "Nguyễn Hà Tuấn Nam": {
         "birth": "2013",
         "hobby": "Xem bóng đá",
         "personality": "Hòa đồng",
-        "image": "C:/Users/Tuan Nam/OneDrive/Máy tính/Daisy/Tuan Nam.jpg"
+        "image": "TuanNam.jpg"
     }
 }
 
